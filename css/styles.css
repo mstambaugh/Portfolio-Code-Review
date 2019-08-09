@@ -26,3 +26,8 @@ body {
   font-weight: bold;
   color: #4d5d53;
 }
+.panel-body {
+  font-family: courier;
+  font-weight: bold;
+  color: #4d5d53;
+}
