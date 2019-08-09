@@ -1,14 +1,7 @@
-
-h1 {
-  font-style: courier;
-  font-weight: bold;
-  color: white;
-}
-
 h2 {
   font-style: courier;
   font-weight: bold;
-  color: #729c69;
+  color: #8FBC8F;
 }
 
 body {
@@ -16,4 +9,18 @@ body {
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
+}
+.profile {
+  float: left;
+  width: 10%;
+  height: 10%;
+}
+.img-rounded {
+  float: left;
+  margin: 8px;
+  border: 5px solid #8FBC8F;
+  padding: 0px;
+}
+.panel-title {
+
 }
