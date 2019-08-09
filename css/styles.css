@@ -12,5 +12,8 @@ h2 {
 }
 
 body {
-  background-color: #fad6a5;
+  background-image: url('../img/leaves.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 }
