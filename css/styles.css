@@ -1,7 +1,12 @@
+h1 {
+  font-style: courier;
+  font-weight: bold;
+}
+
 h2 {
   font-style: courier;
   font-weight: bold;
-  color: #8FBC8F;
+  color: #536878;
 }
 
 body {
@@ -10,17 +15,14 @@ body {
   background-position: center;
   background-attachment: fixed;
 }
-.profile {
-  float: left;
-  width: 10%;
-  height: 10%;
-}
 .img-rounded {
   float: left;
   margin: 8px;
-  border: 5px solid #8FBC8F;
+  border: 5px solid #536878;
   padding: 0px;
 }
 .panel-title {
-
+  font-style: courier;
+  font-weight:bold;
+  color: #026928;
 }
