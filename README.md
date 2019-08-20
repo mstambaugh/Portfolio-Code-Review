@@ -1,17 +1,25 @@
-# Porfolio
-#### Basic HTML Portfolio page for Epicodus, 08.09.19
-#### By Molly Stambaugh
+#
+
+#### _Portfolio and Bio page utilizing HTML, CSS, and Bootstrap CSS_
+
+#### By _**Molly Stambaugh**_
+
 ## Description
-# This webpage is an exercise in basic HTML, CSS, and Bootstrap CSS for  Epicodus. It provides professional background
+
+_{This webpage utilizes HTML, CSS, and Bootstrap CSS as an exercise for Epicodus Week 1 review. The page provides biographical information, professional experience and proficiencies, and an educational and career background.}_
+
 ## Setup/Installation Requirements
-* clone from Github Repository
-* open html file to view webpage in browser
-* open with Atom to view HTML and CSS style sheet (requires a text editor)
+
+* _Clone from Github_
+* _URL https://www.https://github.com/mstambaugh/Portfolio-Code-Review
+* _open with a text editor like Atom_
+
 ## Known Bugs
-# No Known bugs. Contact mstambaugh to report bugs or display issues.
-## Technologies used
-# HTML
-# CSS
-# Bootstrap
-## Legal
-# Copyright (c) 2019 Molly Stambaugh and licensed under MIT licensing policies. 
+
+_{No Known bugs- report any bugs to Github user mstambaugh}_
+
+
+
+### License
+
+*{Copyright (c) 2019 Molly Stambaugh and licensed under the MIT license}*
